@@ -1,2 +1,2 @@
 project
-for labrabota 3 {add you last name, first name}
+for labrabota 3 {add your last name, first name and group number}
