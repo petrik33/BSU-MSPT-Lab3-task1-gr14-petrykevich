@@ -1,5 +1,5 @@
 language = "c"
-run = "gcc -o hello /home/runner/project2/src/hello.c"
+run = "gcc -o lab3-task1 /home/runner/BSU-MSPT-Lab3-task1-gr14-petrykevich/src/main.c"
 entrypoint = "main.c"
 hidden = ["main", "main-debug", "**/*.o", "**/*.d", ".ccls-cache", "Makefile"]
 compile = ["make", "-s"]
