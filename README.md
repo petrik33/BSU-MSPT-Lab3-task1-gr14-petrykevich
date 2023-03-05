@@ -1,11 +1,13 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+## Mobile Software Programming Technologies. Lab 3
+
+Lab work is intended to learn such skills and technologies as Continious Integration / Development with Make utility, GitHub actions and Repl.it environment
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Author: Tsimafei Petrykevich - Group 14
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Built with Repl.it tools and Make utility
