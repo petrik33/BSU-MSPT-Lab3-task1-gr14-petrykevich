@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Binaries
+lab3-task1
+
 # Object files
 *.o
 *.ko
