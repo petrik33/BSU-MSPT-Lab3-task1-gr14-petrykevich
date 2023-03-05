@@ -22,10 +22,7 @@
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.includePaths": [],
-  "C_Cpp_Runner.includeSearch": [
-    "*",
-    "**/*"
-  ],
+  "C_Cpp_Runner.includeSearch": ["*", "**/*"],
   "C_Cpp_Runner.excludeSearch": [
     "**/build",
     "**/build/**",
@@ -34,5 +31,12 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "C_Cpp_Runner.useAddressSanitizer": false
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/home/petrik33/Study/MSPT/Lab3/BSU-MSPT-Lab3-task1-gr14-petrykevich",
+      "binaryPath": "/home/petrik33/Study/MSPT/Lab3/BSU-MSPT-Lab3-task1-gr14-petrykevich/lab3-task1",
+      "binaryArgs": []
+    }
+  ]
 }
