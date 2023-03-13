@@ -4,6 +4,8 @@
 
 Lab work is intended to learn such skills and technologies as Continious Integration / Development with Make utility, GitHub actions and Repl.it environment
 
+## Usage
+
 1. Познакомьтесь с руководством Руководство по созданию проекта в Github и
 Repl.it по созданию репозитория и активации аккаунта для сервиса repl.it.
 2. Создайте репозиторий из шаблона репозитория согласно рекомендациям
@@ -62,15 +64,13 @@ Task:
 этого массива, являющиеся степенями пяти. Функция должна проверять, является
 число степенью пяти или нет.
 
-# Usage
-
 Author: Tsimafei Petrykevich - Group 14
 
-# Building
+## Building
 
 Built with Repl.it tools and Make utility
 
-# Additional Notes
+## Additional Notes
 
 Links to other tasks:
 
